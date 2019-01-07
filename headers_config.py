@@ -1,8 +1,8 @@
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36"
 
 headers = {
-	'User-Agent': user_agent, 
-	"Upgrade-Insecure-Requests": str(1),
+    'User-Agent': user_agent, 
+    "Upgrade-Insecure-Requests": str(1),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "Accept-Encoding": "gzip, deflate, sdch",
     "Accept-Language": "zh-CN,zh;q=0.8,en;q=0.6",
